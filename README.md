@@ -1,1 +1,1 @@
-# Exo-Java-2
+# Second serie of Java exercices about methods.
